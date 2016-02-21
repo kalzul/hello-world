@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+hello my name is Jonathan and im trying GITHUB :)
